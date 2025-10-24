@@ -26,7 +26,7 @@ Extensive experiments demonstrate that our PConv-UNet achieves competitive perfo
 
 Please put the [BUSI](https://www.kaggle.com/aryashah2k/breast-ultrasound-images-dataset) dataset or your own dataset as the following architecture. 
 ```
-├── CMUNet
+├── PConv-UNet
     ├── inputs
         ├── BUSI
             ├── images
