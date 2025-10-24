@@ -3,7 +3,7 @@
 Official Pytorch code for [PConv-UNet: Multi-Scale Pinwheel Convolutions for Breast
 Ultrasound Tumor Segmentation]()
 
-[Paper]() | [Code](https://github.com/Scott0534/PConv-UNet)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0141938225002896) | [Code](https://github.com/Scott0534/PConv-UNet)
 
 [//]: # (**News** 🥰:)
 
@@ -77,48 +77,26 @@ Please put the [BUSI](https://www.kaggle.com/aryashah2k/breast-ultrasound-images
 [//]: # (This code-base uses helper functions from [UNeXt]&#40;https://github.com/jeya-maria-jose/UNeXt-pytorch&#41;.)
 
 [//]: # ()
-[//]: # (## Citation)
+## Citation
 
-[//]: # ()
-[//]: # (If you use our code, please cite our paper:)
 
-[//]: # ()
-[//]: # (```)
+If you use our code, please cite our paper:
 
-[//]: # (@INPROCEEDINGS{10230609,)
+@article{wang2025pconv,
 
-[//]: # (  author={Tang, Fenghe and Wang, Lingtao and Ning, Chunping and Xian, Min and Ding, Jianrui},)
+  title={PConv-UNet: Multi-scale pinwheel convolutions for breast ultrasound tumor segmentation},
 
-[//]: # (  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging &#40;ISBI&#41;}, )
+  author={Wang, Chen and Zhu, Yongbin and Wu, Rentingzhu and Shi, Fengyuan and Li, Qi and Liu, Weixiang and Hu, Keli},
 
-[//]: # (  title={CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network}, )
+  journal={Displays},
 
-[//]: # (  year={2023},)
+  pages={103252},
 
-[//]: # (  volume={},)
+  year={2025},
 
-[//]: # (  number={},)
+  publisher={Elsevier}
+}
 
-[//]: # (  pages={1-5},)
 
-[//]: # (  doi={10.1109/ISBI53787.2023.10230609}})
 
-[//]: # (```)
-
-[//]: # ()
-[//]: # (```)
-
-[//]: # (@article{tang2022cmu,)
-
-[//]: # (  title={CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network},)
-
-[//]: # (  author={Tang, Fenghe and Wang, Lingtao and Ning, Chunping and Xian, Min and Ding, Jianrui},)
-
-[//]: # (  journal={arXiv preprint arXiv:2210.13012},)
-
-[//]: # (  year={2022})
-
-[//]: # (})
-
-[//]: # (```)
 
