@@ -81,7 +81,7 @@ Please put the [BUSI](https://www.kaggle.com/aryashah2k/breast-ultrasound-images
 
 
 If you use our code, please cite our paper:
-
+```
 @article{wang2025pconv,
 
   title={PConv-UNet: Multi-scale pinwheel convolutions for breast ultrasound tumor segmentation},
@@ -96,7 +96,7 @@ If you use our code, please cite our paper:
 
   publisher={Elsevier}
 }
-
+```
 
 
 
